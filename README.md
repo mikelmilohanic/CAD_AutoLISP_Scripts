@@ -1,4 +1,7 @@
-# UPUTE ZA POVEZIVANJE SKRIPTI S LOKALNOM INSTANCOM ZWCAD-a:
+## OPIS
+&emsp;Navedene skripte služe za olakšavanje i ubrzavanje nekih svakodnevnih radnji pri korištenju CAD softvera. Važno je da CAD softver podržava korištenje AutoLISP skripti.
+
+## UPUTE ZA POVEZIVANJE SKRIPTI S LOKALNOM INSTANCOM ZWCAD-a:
 1. Otvoriti 'Loader_Files' direktorij.
 2. Pokrenuti datoteku naziva 'LoaderDocument'.
 3. Povući i ispustiti datoteku naziva 'MainLoaderLisp'
@@ -11,8 +14,8 @@
    pratiti dolje navedene korake unutar odjeljka
    "RUČNO PODEŠAVANJE".
 
-# RUČNO PODEŠAVANJE:
-*u slučaju neuspjelog prvog načina ili rada s drugim CAD
+## RUČNO PODEŠAVANJE:
+> u slučaju neuspjelog prvog načina ili rada s drugim CAD
 softverom koji nije ZWCAD.
 
 1. Otvoriti instancu ZWCAD-a
@@ -29,7 +32,8 @@ softverom koji nije ZWCAD.
    ZWCAD-a te će sve skripte biti dostupne prilikom
    sljedećeg pokretanja ZWCAD-a.
 
-# OSNOVNE NAREDBE ZA RAD S SKRIPTAMA
+## OSNOVNE NAREDBE ZA RAD S SKRIPTAMA
 - INFO - ispis naredbi svih dostupnih skripti te
          informacija o tome što pojedina naredba radi
+
 - RELOAD_LISPS - osvježavanje svih skripti
